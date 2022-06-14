@@ -1,6 +1,12 @@
 # genre_id
 A script that uses Itunes' response API to return the genre of any given song.
 
+# requirements
+You will need the ```requests``` library for this script to work.
+```
+pip install requests
+```
+
 # usage
 To get the genre of multiple songs in a spreadsheet:
 
