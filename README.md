@@ -14,7 +14,7 @@ pip install requests
 python3 genre_id.py -csv yourcsv.csv
 ```
 Assuming all of the songs exist on Itunes, it should create a new csv file containing the genres of each song.
-You may need to change the columns for where you have songs/artists/genres stored. You will need to edit these things manually (see lines 8-10)
+You may need to change the columns for where you have songs/artists/genres stored. You will need to edit these manually(see lines 8-10).
 
 ### To get the genre of a single song:
 
