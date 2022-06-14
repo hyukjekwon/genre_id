@@ -13,7 +13,7 @@ pip install requests
 ```
 python3 genre_id.py -csv yourcsv.csv
 ```
-Assuming none of the songs don't exist on Itunes, it should create a new csv file containing the genres of each song.
+Assuming all of the songs exist on Itunes, it should create a new csv file containing the genres of each song.
 
 ### To get the genre of a single song:
 
