@@ -3,7 +3,7 @@ A script that uses Itunes' response API to return the genre of any given song.
 
 # usage
 To get the genre of multiple songs in a spreadsheet:
-```python3 genre_id -csv yourcsv.py```
+  ```python3 genre_id -csv yourcsv.py```
 
 To get the genre of a single song:
 ```python3 genre_id query```
