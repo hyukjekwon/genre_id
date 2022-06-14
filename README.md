@@ -14,3 +14,5 @@ The query can be anything you would use to look for the song. I would personally
 
 i.e.
 ```python3 genre_id industry baby lil nas x```
+# contact
+Email me for any questions: hyukjekwon@umass.edu
