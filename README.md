@@ -11,6 +11,6 @@ To get the genre of a single song:
 ```python3 genre_id query```
 
 The query can be anything you would use to look for the song. I would personally recommend making it song + artist for best results.
-i.e.
 
+i.e.
 ```python3 genre_id industry baby lil nas x```
