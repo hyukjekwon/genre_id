@@ -11,7 +11,7 @@ pip install requests
 To get the genre of multiple songs in a spreadsheet:
 
 ```
-python3 genre_id.py -csv yourcsv.py
+python3 genre_id.py -csv yourcsv.csv
 ```
 
 To get the genre of a single song:
