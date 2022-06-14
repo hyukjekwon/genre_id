@@ -26,7 +26,9 @@ i.e.
 ```
 python3 genre_id.py industry baby lil nas x
 ```
-The response: ```https://itunes.apple.com/search?term=industry+baby+lil+nas+x&limit=1 <Response [200]>
-Hip-Hop/Rap```
+The response:
+```https://itunes.apple.com/search?term=industry+baby+lil+nas+x&limit=1 <Response [200]>
+Hip-Hop/Rap
+```
 # contact
 Email me for any questions: hyukjekwon@umass.edu
