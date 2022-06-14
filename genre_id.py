@@ -7,6 +7,7 @@ import time
 
 artist_column = 3
 song_column = 1
+genre_column = 7
 
 # searches song and returns 1st result response
 def search(query):
@@ -44,7 +45,7 @@ def make_new_csv(csvname):
                 resp = search(query)
                 naptime *= 2
             genre = get_genre(resp)
-            row[7] = genre
+            row[genre_column] = genre
             rows.append(row)
 
     with open('new_' + csvname, 'w') as file:
