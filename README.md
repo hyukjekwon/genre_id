@@ -1,5 +1,5 @@
 # genre_id
-A script that uses Itunes' response API to return the genre of any given song.
+A script that uses Itunes' response API to return the genre of any given song in their library.
 
 # requirements
 You will need the ```requests``` library for this script to work.
